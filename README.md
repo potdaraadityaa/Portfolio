@@ -4,5 +4,5 @@
 
 ### 🖼️ Portfolio Preview
 
-![Home]([https://raw.githubusercontent.com/potdaraadityaa/Portfolio/main/Screenshot%202025-08-01%20214035.png](https://raw.githubusercontent.com/potdaraadityaa/Portfolio/refs/heads/main/Screenshot%202025-08-01%20214035.png))
+([https://raw.githubusercontent.com/potdaraadityaa/Portfolio/main/Screenshot%202025-08-01%20214035.png](https://raw.githubusercontent.com/potdaraadityaa/Portfolio/refs/heads/main/Screenshot%202025-08-01%20214035.png))
 
